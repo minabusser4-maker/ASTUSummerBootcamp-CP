@@ -14,16 +14,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0832-flipping-an-image](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
