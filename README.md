@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0917-reverse-only-letters) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0917-reverse-only-letters) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Math
 |  |
 | ------- |
@@ -141,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
+## Enumeration
+|  |
+| ------- |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
