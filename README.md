@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0917-reverse-only-letters) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0475-heaters) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -153,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/2014-longest-subsequence-repeated-k-times) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/minabusser4-maker/ASTUSummerBootcamp-CP/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
